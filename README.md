@@ -1,4 +1,4 @@
-# Random forest method using whole phase_curvature as a metric
+# Random forest method using whole phase curvature as a metric
 
 Shin-ya Hasegawa and Takaaki Miaki
 
