@@ -1,6 +1,6 @@
 # Random forest method using whole phase curvature as a metric
 
-Shin-ya Hasegawa and Taka Miaki
+Shin-ya Hasegawa and Takao Miaki
 
 # Description 
 
