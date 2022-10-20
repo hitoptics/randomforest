@@ -28,5 +28,5 @@ Finally, 'myData.csv' which containes 1001 curvature data is obtained.
 
 folder: random_forest_python_code
 To start the process, simply run 'randomfor_3label.py'.
-'model_r_n_z.csv'in (1) and 'myData.csv'in (2) must be in this folder.
-('model_r_n_z.txt'in (1) should be translated to csv format.)
+'model_r_n_z.csv' in (1) and 'myData.csv' in (2) must be in this folder.
+('model_r_n_z.txt' in (1) should be translated to csv format.)
