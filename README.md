@@ -21,7 +21,7 @@ The traine data (model_r_n_z.txt and model_kyokuritsu.txt) are obtained.
 folder: 1001data_translation_MATLAB_code
 
 To start the process, simply run 'fit_longdata_curvature.m'.
-'model_r_n_z.txt' and 'model_kyokuritsu.txt'in (1) must be in this folder.
+'model_r_n_z.txt' and 'model_kyokuritsu.txt' in (1) must be in this folder.
 Finally, 'myData.csv' which containes 1001 curvature data is obtained.
 
 **(3)Python Code for training and estimation.**
